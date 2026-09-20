@@ -23,6 +23,7 @@ archive. A copy stays in `dist/` and the release copy lands in the folder above
 |----------|-----|
 | `store-assets/screenshots/`, `store-assets/promo/` | Uploaded separately in the store listing form |
 | `store-assets/ASSET-NOTES.md`, `store-assets/references/` | Working notes and intermediate render output |
+| `store-assets/store-description.txt` | Pasted into the store listing form |
 | `scripts/` | Asset generation and packaging tooling |
 | `dist/`, `*.zip` | The packaging output itself |
 | `.codebuddy/`, `.gitignore` | Local working memory and version control |

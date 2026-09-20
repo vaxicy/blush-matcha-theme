@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "version": "1.0.0",
-  "name": "blush-matcha-theme",
+  "name": "Blush Matcha Theme",
   "description": "A soft blend of blush pink and matcha green with a fresh, calming feel.",
   "icons": {
     "128": "logo/logo128.png"

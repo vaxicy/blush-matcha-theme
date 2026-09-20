@@ -89,6 +89,7 @@ The screenshots and promo images are illustrative HTML/CSS layouts rendered by h
 | `store-assets/screenshots/en/` | Store listing screenshots (1280x800) |
 | `store-assets/promo/` | Small promo (440x280) and marquee promo (1400x560) |
 | `store-assets/ASSET-NOTES.md` | Calibration notes for the store artwork |
+| `store-assets/store-description.txt` | Store listing detailed description (English) |
 | `scripts/generate_logo.py` | Draws the theme icon |
 | `scripts/generate-store-assets.py` | Renders every store image from one HTML/CSS source |
 | `scripts/package.py` | Builds the release ZIP |
