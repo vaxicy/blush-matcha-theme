@@ -70,15 +70,15 @@ Coming soon — the install link will be added here once the theme is published.
 
 ![Blush Matcha Theme color palette](store-assets/screenshots/en/screenshot-2-introduction.png)
 
-**Marquee tile (1400x560):**
+**Marquee promo (1400x560):**
 
-![Blush Matcha Theme marquee](store-assets/promo/1400x560.png)
+![Blush Matcha Theme marquee promo](store-assets/promo/1400x560.png)
 
-**Small tile (440x280):**
+**Small promo (440x280):**
 
-![Blush Matcha Theme small tile](store-assets/promo/440x280.png)
+![Blush Matcha Theme small promo](store-assets/promo/440x280.png)
 
-The screenshots and promo tiles are illustrative HTML/CSS layouts rendered by headless Chromium, calibrated against a real install of this theme.
+The screenshots and promo images are illustrative HTML/CSS layouts rendered by headless Chromium, calibrated against a real install of this theme.
 
 ## Files
 
@@ -87,7 +87,7 @@ The screenshots and promo tiles are illustrative HTML/CSS layouts rendered by he
 | `manifest.json` | Chrome theme manifest (MV3) with the inline `theme` config |
 | `logo/logo128.png` | Theme icon (128x128), the only icon size a Chrome theme uses |
 | `store-assets/screenshots/en/` | Store listing screenshots (1280x800) |
-| `store-assets/promo/` | Promo tiles (440x280 and 1400x560) |
+| `store-assets/promo/` | Small promo (440x280) and marquee promo (1400x560) |
 | `store-assets/ASSET-NOTES.md` | Calibration notes for the store artwork |
 | `scripts/generate_logo.py` | Draws the theme icon |
 | `scripts/generate-store-assets.py` | Renders every store image from one HTML/CSS source |
